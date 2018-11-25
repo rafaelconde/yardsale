@@ -79,7 +79,7 @@ h3 {
 .group-items .item {
   display: grid;
   grid-template-rows: auto;
-  grid-template-columns: 104px auto 64px 86px;
+  grid-template-columns: 104px auto 64px 104px;
   grid-template-areas: "picture data price cta";
   grid-column-gap: 24px;
   align-items: center;
