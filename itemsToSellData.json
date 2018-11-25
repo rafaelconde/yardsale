@@ -135,7 +135,7 @@
     	"quantity": "1",
     	"description": "Mesa e 2 cadeiras de exterior, do IKEA.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/applaro-mesa-cadeiras-dobraveis-ext-castanho__0137552_PE296037_S4.JPG",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Dinner table chairs",
