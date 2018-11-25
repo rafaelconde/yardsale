@@ -10,6 +10,7 @@ const IndexPage = () => (
         description={item.description}
         condition={item.condition}
         price={item.price}
+        sold={item.sold}
         image={item.picture} />
     ))}
   </div>

@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Item = props => (
+
     <div className="item">
       <div className="wrapper picture">
         <a href={props.image} target="_blank">
@@ -16,7 +17,11 @@ const Item = props => (
         <p className="price">{props.price}</p>
       </div>
       <div className="wrapper cta">
-        <a className="button" href="mailto:rafahari@gmail.com?cc=debora.marisa.ribeiro@gmail.com&amp;subject=Hey%20Rafa%2C%20I%20want%20that%20ITEM&amp;body=I%20would%20love%20to%20buy%20that%20ITEM%20off%20your%20hands!">Get it!</a>
+      {props.sold ? (
+        <a className="button sold" href="/">Sold</a>
+      ) : (
+        <a className="button" href={"mailto:rafahari@gmail.com?subject=Hey%20Rafa%2C%20eu%20quero%20esse%20" + encodeURIComponent(props.title) + "%20por%20" + encodeURIComponent(props.price)}>Get it!</a>
+      )}
       </div>
     </div>
 )
