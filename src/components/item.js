@@ -20,7 +20,7 @@ const Item = props => (
       {props.sold ? (
         <a className="button sold" href="/">Sold</a>
       ) : (
-        <a className="button" href={"mailto:rafahari@gmail.com?subject=Hey%20Rafa%2C%20eu%20quero%20esse%20" + encodeURIComponent(props.title) + "%20por%20" + encodeURIComponent(props.price)}>Get it!</a>
+        <a className="button" href={"mailto:rafahari@gmail.com?subject=Hey%20Rafa%2C%20eu%20quero%20esse%20" + encodeURIComponent(props.title) + "%20por%20" + encodeURIComponent(props.price)}>Comprar</a>
       )}
       </div>
     </div>

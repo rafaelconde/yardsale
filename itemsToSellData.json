@@ -36,7 +36,7 @@
     	"quantity": "2",
     	"description": "Mesa suporte para portátil, ideal para usar no sofá da sala, os pés entram no sofá 👌.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/vittsjo-suporte-p-portatil-castanho__0176250_PE329143_S4.JPG",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Google Home",
@@ -72,7 +72,7 @@
     	"quantity": "1",
     	"description": "Soundbar e subwoofer que estávamos a usar com a TV. Perfeita para usar com uma TV LG 🔊.",
     	"picture": "https://static.fnac-static.com/multimedia/Images/PT/NR/ce/b9/0f/1030606/1541-2/tsp20170502130237/Soundbar-LG-SJ3.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "PSVR + Camera + Move 2 Controllers",
@@ -153,7 +153,7 @@
     	"quantity": "1",
     	"description": "Sofá-cama com arrumação.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/friheten-sofa-cama-de-canto-c-arrumacao-cinz__0175610_PE328883_S4.JPG",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Living room rug",
@@ -234,7 +234,7 @@
     	"quantity": "1",
     	"description": "Suporte de microphone para secretária.",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/61ef%2BxfAZ1L._SX425_.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Wooden Night Stand: IKEA",
@@ -252,7 +252,7 @@
     	"quantity": "2",
     	"description": "Bonus: Dois candeiros básicos.",
     	"picture": "https://uc57f7f85cb59bf5c8e87168573b.previews.dropboxusercontent.com/p/thumb/AAQ0odE4PoLPFGAPWWMyKpNrWc3gjL1QDy43HCmJQ7o5AX4Y4bbr0pSlxzynZ1FsIPO1EQ2T31KxmV3w11TGZOgXCdIAeu5-L70v4GzxVBEYj98aae3S4DdgU6Nrsv00gMxo1Kf9qPcWlXZZnoLpgnX17Ay6N4dU7zdsMFL23G6kJDy2qPJAodCOrJzlFZoSlWSe1fawmmYQdNnvxMAW6nPTL9f0B0abGvKxFZ2GVgpnyg/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Fitbit Aria Scale",
