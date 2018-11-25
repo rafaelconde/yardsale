@@ -73,6 +73,7 @@ h3 {
   background: #2b2d2e;
   opacity: .5;
   pointer-events: none;
+  border-color: #2b2d2e;
 }
 
 .group-items .item {

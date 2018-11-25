@@ -7,7 +7,8 @@
     	"quantity": "2",
     	"description": "Colunas stereo, ideais para computador ou salas pequenas — mega cool e transparentes. Funcionam, mas com muito uso.",
     	"picture": "https://grecko.themerex.net/wp-content/uploads/2014/05/Harman-Kardon-SoundSticks-III-2.1-Channel-Sound-System-1.jpg",
-    	"sold": false
+    	"sold": false,
+      "id": "colunas"
     },
     {
     	"title": "IKEA NILS Stool",
@@ -16,7 +17,8 @@
     	"quantity": "4",
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
     	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
-    	"sold": false
+    	"sold": false,
+      "id": "colunas"
     },
     {
     	"title": "Dinner table",
@@ -160,7 +162,7 @@
     	"quantity": "1",
     	"description": "Tapete de qualidade acho eu, perguntem à mãe do Rafa.",
     	"picture": "https://uce286a0873740d53c86db024c7c.previews.dropboxusercontent.com/p/thumb/AAQzJBXDATl36QNlMr9POLUAZ6Uw7oXbV-DBVw6y6rW7khpfoE69EPrOfWqG1AFeRTV9hzVe4flxfZKO5D6tNbspDjV3kqEzZmvG90h0XOLhNSfURUigj-TfbG03iDAasuu0-TF5kiBfu75efV-Ux7de2Yb9aMmcbTvY4rrhniqR8y4O87YyKyIEwvbJB6ybWRVeaWfAwZid-m2wbgZcqflCFHTW0xdo-pq4lKKsd_0X5Q/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "NOT Upright IKEA Lamp",
@@ -304,7 +306,7 @@
     	"quantity": "1",
     	"description": "É da midade.",
     	"picture": "https://s1.kuantokusta.pt/img_upload/produtos_electrodomesticos/344739_3_electronia-dka20e.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Office Desk: IKEA ALEX",
@@ -331,6 +333,15 @@
     	"quantity": "1",
     	"description": "Sofá-cama de escritório, estava no escritório da Débora.",
     	"picture": "https://www.ikea.com/PIAimages/0277556_PE416611_S5.JPG",
+    	"sold": false
+    },
+    {
+    	"title": "iPad Pro 10.5 256GB + Smart Keyboard",
+    	"condition": "Como novo",
+    	"price": "700€",
+    	"quantity": "1",
+    	"description": "iPad Pro com teclado, comprado este ano ainda. Podem comprar por prestações, nós somos amigos.",
+    	"picture": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/DSC01330.jpg",
     	"sold": false
     }
   ]
