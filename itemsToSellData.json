@@ -45,7 +45,7 @@
     	"quantity": "1",
     	"description": "Speaker e assistente de voz Google 🤖.",
     	"picture": "https://i5.walmartimages.ca/images/Large/309/511/6000197309511.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Asus AC1200 Dual Band (Router)",
@@ -99,7 +99,7 @@
     	"quantity": "1",
     	"description": "Mais bónus: Um carregador de joycons, Pokeball Plus, e um cartão de memória extra.",
     	"picture": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000204544_sd.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Poker Chips",
