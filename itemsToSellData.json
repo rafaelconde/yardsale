@@ -54,7 +54,7 @@
     	"quantity": "1",
     	"description": "Router de 5GHz que estávamos a usar cá em casa.",
     	"picture": "https://www.webantics.com/content/images/thumbs/011/0113834_asus-rt-ac1200-dual-band-wireless-ac1200-router-fibre-ready_600.jpeg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "LG 55UJ6300 (4K HDR TV)",
@@ -261,7 +261,7 @@
     	"quantity": "1",
     	"description": "Smart Balança e coisas. Diz o peso, massa gorda, e outras coisas. Faz sync por Wi-Fi. É cool.",
     	"picture": "https://s2.q4cdn.com/857130097/files/doc_downloads/Fitbit-Product-Line/Aria/above-white-wood-male-slippers-robe-b.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Dyson Fan",
@@ -341,6 +341,15 @@
     	"price": "700€",
     	"quantity": "1",
     	"description": "iPad Pro com teclado, comprado este ano ainda. Podem comprar por prestações, nós somos amigos.",
+    	"picture": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/DSC01330.jpg",
+    	"sold": false
+    },
+    {
+    	"title": "iPad Pro 9.7 256GB + Smart Keyboard (Space Grey)",
+    	"condition": "Como novo",
+    	"price": "550€",
+    	"quantity": "1",
+    	"description": "iPad Pro de 9.7 polegadas com teclado. Podem comprar por prestações, nós somos amigos (a cor é preta, não a que está na foto).",
     	"picture": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/DSC01330.jpg",
     	"sold": false
     }
