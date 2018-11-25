@@ -7,8 +7,7 @@
     	"quantity": "2",
     	"description": "Colunas stereo, ideais para computador ou salas pequenas — mega cool e transparentes. Funcionam, mas com muito uso.",
     	"picture": "https://grecko.themerex.net/wp-content/uploads/2014/05/Harman-Kardon-SoundSticks-III-2.1-Channel-Sound-System-1.jpg",
-    	"sold": false,
-      "id": "colunas"
+    	"sold": false
     },
     {
     	"title": "IKEA NILS Stool",
@@ -18,7 +17,7 @@
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
     	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
     	"sold": false,
-      "id": "colunas"
+    	"send_to": "maria" 
     },
     {
     	"title": "Dinner table",
@@ -27,7 +26,8 @@
     	"quantity": "1",
     	"description": "Mesa de jantar, em madeira, e é do Pedro por isso nem está à venda.",
     	"picture": "https://previews.dropbox.com/p/thumb/AAQnwWrqWHQ8i4JtLD6oog65XKy5ADgvVIYEXIZ9zSGAK-oG1alWTsyCO3OnCnvRN1Bn7WCZPjwZJ5KBfag68IAL6iODpR8Gr7FSzMZCl7hbsWmwsWRSvYN2yAKneYUxC0Xvqo7Pw2_Rj1GeRtCSgJJutZYWL7TfCLcVzJ2-OY827yCJ-EfV7yL3Ojc_UR0dvj6S3cHgbyRpeQ5DSzbKKscblJCXW2iPRcJOOOLo4CezPw/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "maria"
     },
     {
     	"title": "Mesa de apoio em vidro",
@@ -36,7 +36,8 @@
     	"quantity": "2",
     	"description": "Mesa suporte para portátil, ideal para usar no sofá da sala, os pés entram no sofá 👌.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/vittsjo-suporte-p-portatil-castanho__0176250_PE329143_S4.JPG",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "sofia"
     },
     {
     	"title": "Google Home",
@@ -45,7 +46,8 @@
     	"quantity": "1",
     	"description": "Speaker e assistente de voz Google 🤖.",
     	"picture": "https://i5.walmartimages.ca/images/Large/309/511/6000197309511.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "amsterdam"
     },
     {
     	"title": "Asus AC1200 Dual Band (Router)",
@@ -54,7 +56,8 @@
     	"quantity": "1",
     	"description": "Router de 5GHz que estávamos a usar cá em casa.",
     	"picture": "https://www.webantics.com/content/images/thumbs/011/0113834_asus-rt-ac1200-dual-band-wireless-ac1200-router-fibre-ready_600.jpeg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "LG 55UJ6300 (4K HDR TV)",
@@ -63,7 +66,8 @@
     	"quantity": "1",
     	"description": "Televisão de 55 polegadas, 4K e HDR 📺.",
     	"picture": "https://i0.wp.com/hsdsonline.com/wp-content/uploads/2017/06/LG55UJ6300-6.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Soundbar LG SJ3",
@@ -72,7 +76,8 @@
     	"quantity": "1",
     	"description": "Soundbar e subwoofer que estávamos a usar com a TV. Perfeita para usar com uma TV LG 🔊.",
     	"picture": "https://static.fnac-static.com/multimedia/Images/PT/NR/ce/b9/0f/1030606/1541-2/tsp20170502130237/Soundbar-LG-SJ3.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "soraia"
     },
     {
     	"title": "PSVR + Camera + Move 2 Controllers",
@@ -81,7 +86,8 @@
     	"quantity": "1",
     	"description": "Realidade virtual para usar com uma PS4 — inclui a camera e dois comandos Move (Bonus: mais um suporte de rifle).",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/61Si9hUUrkL._SX425_.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "luis"
     },
     {
     	"title": "PS4 Pro",
@@ -90,7 +96,8 @@
     	"quantity": "1",
     	"description": "PS4 Pro com 2 comandos alguns jogos e cenas.",
     	"picture": "https://brain-images-ssl.cdn.dixons.com/1/7/10153771/u_10153771.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "amsterdam"
     },
     {
     	"title": "Nintendo Switch + Pro Controller + 2 extra Joycons",
@@ -99,7 +106,8 @@
     	"quantity": "1",
     	"description": "Mais bónus: Um carregador de joycons, Pokeball Plus, e um cartão de memória extra.",
     	"picture": "https://pisces.bbystatic.com/image2/BestBuy_MX/images/products/1000/1000204544_sd.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "amsterdam"
     },
     {
     	"title": "Poker Chips",
@@ -117,7 +125,8 @@
     	"quantity": "1",
     	"description": "Móvel para TV com gavetas e arrumos",
     	"picture": "https://ucc78ddc714dbcbd03b0edd129b6.previews.dropboxusercontent.com/p/thumb/AAQW75iNWD31iHYNBDry0mGz2bIIpKMCt1IVR2cv52gc5nwoSI40irlDLVo_QBErdR9TPnibA4ZjDrVTVhmCu0HvY3FolDwB8GlM1pWCplPwlcPtWpf5UZlCMwk-_JwjF2jMvF7Rs5YeQ4p7-S-hrvd_NuCG_-cG3u0upCiiRXUxX6JAObrz9QTjueuGUwp1RHdue_rlxeaLLbhXtSM91vH0CVukax7cTrEqScqy5RjlXw/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "IKEA Cabinet",
@@ -126,7 +135,8 @@
     	"quantity": "1",
     	"description": "Armário grande de sala, com três portas (uma dela com frosted glass).",
     	"picture": "https://uccae7073532de725c9f8fa4bfa8.previews.dropboxusercontent.com/p/thumb/AAQ7dLurgGu2rPYVZRyko0cFJm8IaAloeXXoxtj1472vY6TZrN-TnozsPrRPrrnM7H5VYlJnMZqPpaGQlIztEzYCv94GBNLer9298AJdxzX5ZLw0Mly8mo9BN4dnntbrAcF1ZL3crM487SSLoWA4u8-cayLaII3yaKgSWAmuKaxjm25EFemYFqvEsTj4iIEWY9HwywT3rOaPDO16esGAYXmBYmLhgnTxJqmqHI6S8ggKqA/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "ÄPPLARÖ IKEA table set",
@@ -135,7 +145,8 @@
     	"quantity": "1",
     	"description": "Mesa e 2 cadeiras de exterior, do IKEA.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/applaro-mesa-cadeiras-dobraveis-ext-castanho__0137552_PE296037_S4.JPG",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Dinner table chairs",
@@ -144,7 +155,8 @@
     	"quantity": "4",
     	"description": "Cadeiras de interior, que são do Pedro e não posso vender.",
     	"picture": "https://5.imimg.com/data5/RN/UK/MY-1782010/traditional-wooden-chair-500x500.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "maria"
     },
     {
     	"title": "FRIHETEN IKEA Sofa",
@@ -153,7 +165,8 @@
     	"quantity": "1",
     	"description": "Sofá-cama com arrumação.",
     	"picture": "https://www.ikea.com/pt/pt/images/products/friheten-sofa-cama-de-canto-c-arrumacao-cinz__0175610_PE328883_S4.JPG",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "soraia"
     },
     {
     	"title": "Living room rug",
@@ -162,7 +175,8 @@
     	"quantity": "1",
     	"description": "Tapete de qualidade acho eu, perguntem à mãe do Rafa.",
     	"picture": "https://uce286a0873740d53c86db024c7c.previews.dropboxusercontent.com/p/thumb/AAQzJBXDATl36QNlMr9POLUAZ6Uw7oXbV-DBVw6y6rW7khpfoE69EPrOfWqG1AFeRTV9hzVe4flxfZKO5D6tNbspDjV3kqEzZmvG90h0XOLhNSfURUigj-TfbG03iDAasuu0-TF5kiBfu75efV-Ux7de2Yb9aMmcbTvY4rrhniqR8y4O87YyKyIEwvbJB6ybWRVeaWfAwZid-m2wbgZcqflCFHTW0xdo-pq4lKKsd_0X5Q/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "maria"
     },
     {
     	"title": "NOT Upright IKEA Lamp",
@@ -171,7 +185,8 @@
     	"quantity": "1",
     	"description": "Standing Lamp",
     	"picture": "https://www.ikea.com/PIAimages/0606879_PE682600_S5.JPG",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "sofia"
     },
     {
     	"title": "Boosted Board: Dual+ V1",
@@ -189,7 +204,8 @@
     	"quantity": "1",
     	"description": "Cadeira de um designer todo conhecido, mas tem a bomba de pressão estragada (não dá para ajustar a altura). Tem que ser reparada.",
     	"picture": "https://www.hermanmiller.com/content/dam/hmicom/page_assets/products/eames_aluminum_group_chairs/uw_prd_ovw_eames_aluminum_group_chairs_01.jpg.rendition.2880.1620.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "maria"
     },
     {
     	"title": "Standing Electric Desk: BEKANT IKEA",
@@ -234,7 +250,8 @@
     	"quantity": "1",
     	"description": "Suporte de microphone para secretária.",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/61ef%2BxfAZ1L._SX425_.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "sofia"
     },
     {
     	"title": "Wooden Night Stand: IKEA",
@@ -243,7 +260,8 @@
     	"quantity": "2",
     	"description": "Mesa de cabeceira do IKEA, que não encontro a referência. Temos duas para vender.",
     	"picture": "https://ucfa91e6255462727ce7923aabfe.previews.dropboxusercontent.com/p/thumb/AATWJVHRN2MO5yrFkTHbaR4VyLBLonkojG_kJalaJzUBbV3w_d1-YgR_3aJupH8mvzdorwSrzjJ3jBVaduZufwn6YUffzhb9uroYsmmzukbjS1s-oFzNJL-M0en_9-N0rwIJt5swZm1y4bzNY6700yqVUEYA6NUNYvotZxBaXW3IYmpoystLouKrPqjngdlk4E3rBCgzsh71AGtSVFnEJzHfI5TFR9U3MNUOVtSQM3hqIA/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Night Stand lamps: IKEA",
@@ -252,7 +270,8 @@
     	"quantity": "2",
     	"description": "Bonus: Dois candeiros básicos.",
     	"picture": "https://uc57f7f85cb59bf5c8e87168573b.previews.dropboxusercontent.com/p/thumb/AAQ0odE4PoLPFGAPWWMyKpNrWc3gjL1QDy43HCmJQ7o5AX4Y4bbr0pSlxzynZ1FsIPO1EQ2T31KxmV3w11TGZOgXCdIAeu5-L70v4GzxVBEYj98aae3S4DdgU6Nrsv00gMxo1Kf9qPcWlXZZnoLpgnX17Ay6N4dU7zdsMFL23G6kJDy2qPJAodCOrJzlFZoSlWSe1fawmmYQdNnvxMAW6nPTL9f0B0abGvKxFZ2GVgpnyg/p.jpeg?size=2048x1536&size_mode=3",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "sofia"
     },
     {
     	"title": "Fitbit Aria Scale",
@@ -261,7 +280,8 @@
     	"quantity": "1",
     	"description": "Smart Balança e coisas. Diz o peso, massa gorda, e outras coisas. Faz sync por Wi-Fi. É cool.",
     	"picture": "https://s2.q4cdn.com/857130097/files/doc_downloads/Fitbit-Product-Line/Aria/above-white-wood-male-slippers-robe-b.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Dyson Fan",
@@ -306,7 +326,8 @@
     	"quantity": "1",
     	"description": "É da midade.",
     	"picture": "https://s1.kuantokusta.pt/img_upload/produtos_electrodomesticos/344739_3_electronia-dka20e.jpg",
-    	"sold": true
+    	"sold": true,
+    	"send_to": "maria"
     },
     {
     	"title": "Office Desk: IKEA ALEX",
@@ -315,7 +336,8 @@
     	"quantity": "1",
     	"description": "Secretária da Debs, com duas gavetas e arrumação de cabos.",
     	"picture": "https://www.ikea.com/PIAimages/0242200_PE381727_S5.JPG",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Office Chair: SKRUVSTA",
@@ -324,7 +346,8 @@
     	"quantity": "1",
     	"description": "Cadeira de escritorio fofinha.",
     	"picture": "https://www.ikea.com/PIAimages/0591957_PE674332_S5.JPG",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Sofa-bed convertible: ASARUM",
@@ -333,7 +356,8 @@
     	"quantity": "1",
     	"description": "Sofá-cama de escritório, estava no escritório da Débora.",
     	"picture": "https://www.ikea.com/PIAimages/0277556_PE416611_S5.JPG",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "iPad Pro 10.5 256GB + Smart Keyboard",
