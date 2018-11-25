@@ -10,9 +10,9 @@ const Item = props => (
       <div className="wrapper data">
         <h3>{props.title}</h3>
         <p>{props.description}</p>
+        <span className="condition badge">{props.condition}</span>
       </div>
       <div className="wrapper meta">
-        <span className="condition badge">{props.condition}</span>
         <p className="price">{props.price}</p>
       </div>
       <div className="wrapper cta">

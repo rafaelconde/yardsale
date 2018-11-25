@@ -64,11 +64,15 @@ h3 {
 .group-items .item {
   display: grid;
   grid-template-rows: auto;
-  grid-template-columns: 104px auto 104px 86px;
+  grid-template-columns: 104px auto 64px 86px;
   grid-template-areas: "picture data price cta";
   grid-column-gap: 16px;
   align-items: center;
   padding: 16px 24px;
+}
+
+.group-items .item:last-child {
+  border-radius: 0 0 8px 8px;
 }
 
 .group-items .item:nth-child(2n) {
@@ -80,21 +84,29 @@ h3 {
 }
 
 .group-items .item .picture {
+  display: block;
   grid-area: picture;
+  /* background: #6ab7da; */
+  border-radius: 8px;
 }
 
 .group-items .item .picture img {
   width: 100%;
   height: auto;
+  border-radius: 8px;
+}
+
+.group-items .item .picture a {
+  height: auto;
 }
 
 .group-items .item .condition {
-  display: block;
+  display: inline;
   font-size: 12px;
   font-weight: 600;
-  color: #fff;
-  background: #2b2d2e;
-  padding: 2px 2px;
+  color: #2b2d2e;
+  border: 2px solid #2b2d2e;
+  padding: 2px 8px;
   border-radius: 4px;
   text-align: center;
 }
