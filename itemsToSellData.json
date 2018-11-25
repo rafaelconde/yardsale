@@ -171,7 +171,7 @@
     	"quantity": "1",
     	"description": "Standing Lamp",
     	"picture": "https://www.ikea.com/PIAimages/0606879_PE682600_S5.JPG",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "Boosted Board: Dual+ V1",
