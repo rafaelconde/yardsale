@@ -214,7 +214,8 @@
     	"quantity": "1",
     	"description": "Secretária eléctrica do Rafa que vai para cima e baixo. Ajustável. Duh.",
     	"picture": "https://www.ikea.com/PIAimages/0618256_PE688409_S5.JPG",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "anabela"
     },
     {
     	"title": "Topo Ergodriven: Anti-fatigue Mat",
