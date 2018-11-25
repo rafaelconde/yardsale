@@ -16,7 +16,7 @@
     	"quantity": "4",
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
     	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
-    	"sold": false,
+    	"sold": true,
     	"send_to": "maria" 
     },
     {
