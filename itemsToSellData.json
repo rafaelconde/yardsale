@@ -2,7 +2,7 @@
   "items": [
     {
     	"title": "Harman Kardon SoundSticks II",
-    	"condition": 3,
+    	"condition": "Não está lá muito bom",
     	"price": "40€",
     	"quantity": "2",
     	"description": "Colunas stereo, ideais para computador ou salas pequenas — mega cool e transparentes. Funcionam, mas com muito uso.",
@@ -11,7 +11,7 @@
     },
     {
     	"title": "IKEA NILS Stool",
-    	"condition": 1,
+    	"condition": "Impecáveis",
     	"price": "10€",
     	"quantity": "4",
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
@@ -20,7 +20,7 @@
     },
     {
     	"title": "Dinner table",
-    	"condition": 2,
+    	"condition": "Usada",
     	"price": "SOLD",
     	"quantity": "1",
     	"description": "Mesa de jantar, em madeira, e é do Pedro por isso nem está à venda.",
@@ -29,7 +29,7 @@
     },
     {
     	"title": "Mesa de apoio em vidro",
-    	"condition": 0,
+    	"condition": "Impecáveis",
     	"price": "7€",
     	"quantity": "2",
     	"description": "Mesa suporte para portátil, ideal para usar no sofá da sala, os pés entram no sofá 👌.",
@@ -38,7 +38,7 @@
     },
     {
     	"title": "Google Home",
-    	"condition": 0,
+    	"condition": "Impecáveis",
     	"price": "90€",
     	"quantity": "1",
     	"description": "Speaker e assistente de voz Google 🤖.",
@@ -47,7 +47,7 @@
     },
     {
     	"title": "Asus AC1200 Dual Band (Router)",
-    	"condition": 0,
+    	"condition": "Impecável",
     	"price": "20€",
     	"quantity": "1",
     	"description": "Router de 5GHz que estávamos a usar cá em casa.",
@@ -56,7 +56,7 @@
     },
     {
     	"title": "LG 55UJ6300 (4K HDR TV)",
-    	"condition": 0,
+    	"condition": "Impecável",
     	"price": "200€",
     	"quantity": "1",
     	"description": "Televisão de 55 polegadas, 4K e HDR 📺.",
@@ -65,7 +65,7 @@
     },
     {
     	"title": "Soundbar LG SJ3",
-    	"condition": 0,
+    	"condition": "Impecável",
     	"price": "50€",
     	"quantity": "1",
     	"description": "Soundbar e subwoofer que estávamos a usar com a TV. Perfeita para usar com uma TV LG 🔊.",
@@ -74,7 +74,7 @@
     },
     {
     	"title": "PSVR + Camera + Move 2 Controllers",
-    	"condition": 1,
+    	"condition": "Usado",
     	"price": "200€",
     	"quantity": "1",
     	"description": "Realidade virtual para usar com uma PS4 — inclui a camera e dois comandos Move (Bonus: mais um suporte de rifle).",
@@ -83,7 +83,7 @@
     },
     {
     	"title": "PS4 Pro",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "370€",
     	"quantity": "1",
     	"description": "PS4 Pro com 2 comandos alguns jogos e cenas.",
@@ -92,7 +92,7 @@
     },
     {
     	"title": "Nintendo Switch + Pro Controller + 2 extra Joycons",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "300€",
     	"quantity": "1",
     	"description": "Mais bónus: Um carregador de joycons, Pokeball Plus, e um cartão de memória extra.",
@@ -101,7 +101,7 @@
     },
     {
     	"title": "Poker Chips",
-    	"condition": 1,
+    	"condition": "Muito usado",
     	"price": "5€",
     	"quantity": "1",
     	"description": "Um set de fichas de poker, alguem nos deu, não faço idea quem.",
@@ -110,7 +110,7 @@
     },
     {
     	"title": "TV Cabinet: BESTÅ",
-    	"condition": 1,
+    	"condition": "Usado",
     	"price": "30€",
     	"quantity": "1",
     	"description": "Móvel para TV com gavetas e arrumos",
@@ -119,7 +119,7 @@
     },
     {
     	"title": "IKEA Cabinet",
-    	"condition": 0,
+    	"condition": "Usado",
     	"price": "20€",
     	"quantity": "1",
     	"description": "Armário grande de sala, com três portas (uma dela com frosted glass).",
@@ -128,7 +128,7 @@
     },
     {
     	"title": "ÄPPLARÖ IKEA table set",
-    	"condition": 2,
+    	"condition": "Com muito uso",
     	"price": "50€",
     	"quantity": "1",
     	"description": "Mesa e 2 cadeiras de exterior, do IKEA.",
@@ -137,7 +137,7 @@
     },
     {
     	"title": "Dinner table chairs",
-    	"condition": 2,
+    	"condition": "Com muito uso",
     	"price": "SOLD",
     	"quantity": "4",
     	"description": "Cadeiras de interior, que são do Pedro e não posso vender.",
@@ -146,7 +146,7 @@
     },
     {
     	"title": "FRIHETEN IKEA Sofa",
-    	"condition": 1,
+    	"condition": "Usado",
     	"price": "150€",
     	"quantity": "1",
     	"description": "Sofá-cama com arrumação.",
@@ -154,8 +154,8 @@
     	"sold": false
     },
     {
-    	"title": "Rug",
-    	"condition": 3,
+    	"title": "Living room rug",
+    	"condition": "Precisa de uma limpeza",
     	"price": "30€",
     	"quantity": "1",
     	"description": "Tapete de qualidade acho eu, perguntem à mãe do Rafa.",
@@ -164,7 +164,7 @@
     },
     {
     	"title": "NOT Upright IKEA Lamp",
-    	"condition": 2,
+    	"condition": "Usado",
     	"price": "5€",
     	"quantity": "1",
     	"description": "Standing Lamp",
@@ -173,7 +173,7 @@
     },
     {
     	"title": "Boosted Board: Dual+ V1",
-    	"condition": 1,
+    	"condition": "Com algum uso",
     	"price": "400€",
     	"quantity": "1",
     	"description": "O meu 'sequeiteletrico', amo, adoro, vá lá não comprem. Vem com comando + capacete + carregador + chave de skate + uma aula 🛹",
@@ -182,7 +182,7 @@
     },
     {
       "title": "Office Chair: Herman Miller Eames (white)",
-    	"condition": 1,
+    	"condition": "Já com muito uso",
     	"price": "200€",
     	"quantity": "1",
     	"description": "Cadeira de um designer todo conhecido, mas tem a bomba de pressão estragada (não dá para ajustar a altura). Tem que ser reparada.",
@@ -191,7 +191,7 @@
     },
     {
     	"title": "Standing Electric Desk: BEKANT IKEA",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "200€",
     	"quantity": "1",
     	"description": "Secretária eléctrica do Rafa que vai para cima e baixo. Ajustável. Duh.",
@@ -200,7 +200,7 @@
     },
     {
     	"title": "Topo Ergodriven: Anti-fatigue Mat",
-    	"condition": 0,
+    	"condition": "Impecável",
     	"price": "60€",
     	"quantity": "1",
     	"description": "Tapete para trabalhar em pá, super bouncy e fun, para não te cansares.",
@@ -209,7 +209,7 @@
     },
     {
     	"title": "Desk Lamp with Wireless Charger: RIGGAD",
-    	"condition": 0,
+    	"condition": "Como novo",
     	"price": "30€",
     	"quantity": "1",
     	"description": "Candeeiro IKEA de secretaria que dá para carregar telemoveis wireless e cenas.",
@@ -218,7 +218,7 @@
     },
     {
     	"title": "iMac 5K (Late 2015)",
-    	"condition": 2,
+    	"condition": "Impecável",
     	"price": "1500€",
     	"quantity": "1",
     	"description": "Computador do Rafa que ele ama mas é muito grande para levar. Intel Core i7 4 GHz, 16 GB 1867 MHz DDR3, e 256GB SSD 🖥.",
@@ -227,7 +227,7 @@
     },
     {
     	"title": "Microphone Desk Arm",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "15€",
     	"quantity": "1",
     	"description": "Suporte de microphone para secretária.",
@@ -236,7 +236,7 @@
     },
     {
     	"title": "Wooden Night Stand: IKEA",
-    	"condition": 1,
+    	"condition": "Como novo",
     	"price": "20€",
     	"quantity": "2",
     	"description": "Mesa de cabeceira do IKEA, que não encontro a referência. Temos duas para vender.",
@@ -245,7 +245,7 @@
     },
     {
     	"title": "Night Stand lamps: IKEA",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "7€",
     	"quantity": "2",
     	"description": "Bonus: Dois candeiros básicos.",
@@ -254,7 +254,7 @@
     },
     {
     	"title": "Fitbit Aria Scale",
-    	"condition": 1,
+    	"condition": "Impecável",
     	"price": "60€",
     	"quantity": "1",
     	"description": "Smart Balança e coisas. Diz o peso, massa gorda, e outras coisas. Faz sync por Wi-Fi. É cool.",
@@ -263,7 +263,7 @@
     },
     {
     	"title": "Dyson Fan",
-    	"condition": 1,
+    	"condition": "Usado",
     	"price": "120€",
     	"quantity": "1",
     	"description": "Ventoinha mágica sem pás, design 💯, e o Rafa vai chorar por não a poder levar.",
@@ -272,7 +272,7 @@
     },
     {
     	"title": "Vacuum Cleaner: Siemens Z4.0",
-    	"condition": 3,
+    	"condition": "Com muito uso",
     	"price": "100€",
     	"quantity": "1",
     	"description": "Aspirador, aspira. Tipo o chão.",
@@ -281,7 +281,7 @@
     },
     {
     	"title": "Bathroom Cabinet: SILVERÅN",
-    	"condition": 1,
+    	"condition": "Usado",
     	"price": "30€",
     	"quantity": "1",
     	"description": "Móvel de IKEA casa de banho, com espelho.",
@@ -290,7 +290,7 @@
     },
     {
     	"title": "Shoe cabinet: STÄLL",
-    	"condition": 1,
+    	"condition": "Como novo",
     	"price": "20€",
     	"quantity": "1",
     	"description": "Sapateira 🦀, estreita, leva com 8 pares de calçado no mínimo.",
@@ -299,7 +299,7 @@
     },
     {
     	"title": "Desumidificador Eletronia DKA20E",
-    	"condition": 1,
+    	"condition": "Como novo",
     	"price": "20€",
     	"quantity": "1",
     	"description": "É da midade.",
@@ -307,111 +307,30 @@
     	"sold": false
     },
     {
-    	"title": "Light Wood little cabinet",
-    	"condition": 2,
-    	"price": "€",
+    	"title": "Office Desk: IKEA ALEX",
+    	"condition": "Impecável",
+    	"price": "80€",
     	"quantity": "1",
-    	"description": "With drawers",
-    	"picture": "/.png",
+    	"description": "Secretária da Debs, com duas gavetas e arrumação de cabos.",
+    	"picture": "https://www.ikea.com/PIAimages/0242200_PE381727_S5.JPG",
     	"sold": false
     },
     {
-    	"title": "Transportadora velha Zoas",
-    	"condition": 3,
-    	"price": "€",
+    	"title": "Office Chair: SKRUVSTA",
+    	"condition": "Impecável",
+    	"price": "40€",
     	"quantity": "1",
-    	"description": "Cat Carrier",
-    	"picture": "/.png",
+    	"description": "Cadeira de escritorio fofinha.",
+    	"picture": "https://www.ikea.com/PIAimages/0591957_PE674332_S5.JPG",
     	"sold": false
     },
     {
-    	"title": "Light Wood Night stand",
-    	"condition": 2,
-    	"price": "€",
+    	"title": "Sofa-bed convertible: ASARUM",
+    	"condition": "Impecável",
+    	"price": "120€",
     	"quantity": "1",
-    	"description": "Light wood night stand with one drawer",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Sewing Kit",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Sewing Kit",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Office Desk",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Grey Office Desk with 2 drawers",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "White Desk Lamp",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "White Desk Lamp",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "White Soft Office Chair",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "White office chair with cushion",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Small sofa Bed with storage",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Grey Sofa bed with storage",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Metal towel Hanger",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Metal towel hanger structure",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "White Board",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "White board for writing and pens",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Decorated lamp",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Decorated flower themed lamp",
-    	"picture": "/.png",
-    	"sold": false
-    },
-    {
-    	"title": "Metal coat hanger",
-    	"condition": 1,
-    	"price": "€",
-    	"quantity": "1",
-    	"description": "Black metal Coat hanger",
-    	"picture": "/.png",
+    	"description": "Sofá-cama de escritório, estava no escritório da Débora.",
+    	"picture": "https://www.ikea.com/PIAimages/0277556_PE416611_S5.JPG",
     	"sold": false
     }
   ]
