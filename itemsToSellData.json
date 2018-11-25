@@ -1,0 +1,652 @@
+{
+  "items": [
+    {
+    	"title": "Harman Kardon Speaker",
+    	"condition": 3,
+    	"price": "20€",
+    	"quantity": "2",
+    	"description": "Colunas ideáis para computador, ou sala pequena…",
+    	"picture": "/colunas.png",
+    	"sold": false
+    },
+    {
+    	"title": "IKEA Stool",
+    	"condition": 1,
+    	"price": "29,99€",
+    	"quantity": "4",
+    	"description": "Estrutura de banco, preto",
+    	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
+    	"sold": false
+    },
+    {
+    	"title": "Mesa de Jantar",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Mesa de jantar, Pedro",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Mesa de apoio em vidro",
+    	"condition": 0,
+    	"price": "19,99€",
+    	"quantity": "2",
+    	"description": "Suporte p/portátil, pret-cast, vidro",
+    	"picture": "https://www.ikea.com/pt/pt/images/products/vittsjo-suporte-p-portatil-castanho__0176250_PE329143_S4.JPG",
+    	"sold": false
+    },
+    {
+    	"title": "Google home - Sala",
+    	"condition": 0,
+    	"price": "70€",
+    	"quantity": "1",
+    	"description": "Google Home",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Router - Sala",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Router",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "TV - Sala",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Tv Sala",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Soundbar - Sala",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Soundbar + colunas",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "PSVR",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "PSVR + gun thingy",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "PS4 Pro",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "PS4 + pack of games Alien Isolation + Farpoint + Fifa 15 + Shadows of Mordor",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Nintendo Switch",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Nintendo Switch + 4 remotes",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Poker Set",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Poker set box",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Tv Cabinet",
+    	"condition": 1,
+    	"price": "89€",
+    	"quantity": "1",
+    	"description": "Tv Cabinet with 4 drawers",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Cat Nail scratcher",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Stand for nail scratching =p",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Record Player",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Record player that doesn't work anymore - looks pretty though",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Logicircle webcam",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Security camera",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Living room cupboard",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "3 divisoes fechadas, 4 prateleiras",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Board games",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Catan + Game of Thrones + Cosmic Encounters + Monopoly + Skulls + Cards Against Humanity + Exit Game + Exploding Kittens + Arrebenta a bolha + Deck of Cards",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Tea Set",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Very heavy tea pot and box of teas",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Old leather suitcase",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Suitcase for document storage",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Garden table and 2 chairs ",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Wooden Garden table and chairs",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Table Chairs - Pedro",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "4",
+    	"description": "Wooden chairs",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Sofa with storage space and bed conversion",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Sofa that turns into bed",
+    	"picture": "https://www.ikea.com/pt/pt/images/products/friheten-sofa-cama-de-canto-c-arrumacao-cinz__0175610_PE328883_S4.JPG",
+    	"sold": false
+    },
+    {
+    	"title": "Tapete da sala",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Big Carpet beige and brown",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Standing Lamp",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Standing Lamp",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Set of light bulbs and switches",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "4",
+    	"description": "4 lamp switches",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Heaters",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "3",
+    	"description": "Electric heaters",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Sofa cambalhota -Pedro",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Sofa cambalhota para 1 pessoa",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Boosted Board",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Boosted board AKA electric skateboard",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Quadros para decoração + espelho decorativo",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "8",
+    	"description": "office + hallway + kitchen + room all decorations + hallway mirror",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+      "title": "Office Chair",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "White Leather Office Chair",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Office adjustable desk ",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Desk that goes up and down",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Tapete ergonomico",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Tapete para trabalhar em pe",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Estante para livros",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Estante de madeira",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Candeeiro de secretaria",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Candeeiro de secretaria que da para carregar dispositivos electrónicos",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Bell Ring",
+    	"condition": 0,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "no comments, it rings",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "iMac 4K",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Insert specs here",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Microphone Stand",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Are you a podcaster? This might be for you",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Sound equipment + bass + guitar",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Do you like music?",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Night Stands",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "2",
+    	"description": "Dark Wood night stands",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Night Stand lamps",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "2",
+    	"description": "Black night stand lamps",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Scale",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "White Scale",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Room Carpets",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "2",
+    	"description": "One round and one rectangular brownish carpet",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Bed and mattress",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Old bed and mattress",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Ventoinha",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Tinhas",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Blender + Toaster + Coffe Machine",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Kitchen utensils",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Coffee making Kit",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Grinders + v60's + Chemex + aeropress",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Kitchen Utensils",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Wine glasses, whiskey glasses, glasses, cups, plates, silverware, pans, grillers, ...",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Sheets, Towels and clothes",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "infinite",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Zooey's feeder",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Da as papas",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Zooey's water Fountain",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Da as aguinhas",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Vacuum Cleaner",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Aspirador",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Water Pressure Pateo cleaner",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Water pressure thingy",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Towel Holder",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "To hang towels",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Bathroom Cabinet",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Bathroom Cabinet with mirror",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Bathroom carpet",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Bathroom dark carpet",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Shoe cabinet",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Holds up to 8 pairs",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Desumidificador",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Desumidificador",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Laundry Basket",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Dark Laundry basket",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Clothing hangers/structures",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "2",
+    	"description": "2 metal structures for storing clothes",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Light Wood little cabinet",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "With drawers",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Transportadora velha Zoas",
+    	"condition": 3,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Cat Carrier",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Light Wood Night stand",
+    	"condition": 2,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Light wood night stand with one drawer",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Sewing Kit",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Sewing Kit",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Office Desk",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Grey Office Desk with 2 drawers",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "White Desk Lamp",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "White Desk Lamp",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "White Soft Office Chair",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "White office chair with cushion",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Small sofa Bed with storage",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Grey Sofa bed with storage",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Metal towel Hanger",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Metal towel hanger structure",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "White Board",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "White board for writing and pens",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Decorated lamp",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Decorated flower themed lamp",
+    	"picture": "/.png",
+    	"sold": false
+    },
+    {
+    	"title": "Metal coat hanger",
+    	"condition": 1,
+    	"price": "€",
+    	"quantity": "1",
+    	"description": "Black metal Coat hanger",
+    	"picture": "/.png",
+    	"sold": false
+    }
+  ]
+}

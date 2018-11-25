@@ -1,12 +1,17 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import Item from '../components/item'
+import dataSource from '../../itemsToSellData.json'
 
 const IndexPage = () => (
-  <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+  <div className="group-items">
+    {dataSource.items.map(item => (
+      <Item
+        title={item.title}
+        description={item.description}
+        condition={item.condition}
+        price={item.price}
+        image={item.picture} />
+    ))}
   </div>
 )
 
