@@ -1,6 +1,15 @@
 {
   "items": [
     {
+    	"title": "Blue Yeti Microphone",
+    	"condition": "Com algum uso",
+    	"price": "40€",
+    	"quantity": "1",
+    	"description": "Microfone que o Rafa usou durante 4 anos, onde gravo todos os podcasts e screencasts.",
+    	"picture": "https://i5.walmartimages.com/asr/7db65a91-27e8-49f9-83a7-8a1f94f761fd_1.b18a6dc80c78a84e7658756c1376a30e.jpeg",
+    	"sold": false
+    },
+    {
     	"title": "Harman Kardon SoundSticks II",
     	"condition": "Não está lá muito bom",
     	"price": "40€",
@@ -17,7 +26,7 @@
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
     	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
     	"sold": true,
-    	"send_to": "maria" 
+    	"send_to": "maria"
     },
     {
     	"title": "Dinner table",
@@ -86,7 +95,7 @@
     	"quantity": "1",
     	"description": "Realidade virtual para usar com uma PS4 — inclui a camera e dois comandos Move (Bonus: mais um suporte de rifle).",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/61Si9hUUrkL._SX425_.jpg",
-    	"sold": true,
+    	"sold": false,
     	"send_to": "luis"
     },
     {
