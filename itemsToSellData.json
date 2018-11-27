@@ -7,7 +7,8 @@
     	"quantity": "1",
     	"description": "Microfone que o Rafa usou durante 4 anos, onde gravo todos os podcasts e screencasts.",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/51yRptr2sDL._SX425_.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "susana"
     },
     {
     	"title": "Harman Kardon SoundSticks II",
