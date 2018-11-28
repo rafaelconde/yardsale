@@ -1,16 +1,6 @@
 {
   "items": [
     {
-    	"title": "Blue Yeti Microphone",
-    	"condition": "Com algum uso",
-    	"price": "40€",
-    	"quantity": "1",
-    	"description": "Microfone que o Rafa usou durante 4 anos, onde gravo todos os podcasts e screencasts.",
-    	"picture": "https://images-na.ssl-images-amazon.com/images/I/51yRptr2sDL._SX425_.jpg",
-    	"sold": true,
-    	"send_to": "susana"
-    },
-    {
     	"title": "Harman Kardon SoundSticks II",
     	"condition": "Não está lá muito bom",
     	"price": "40€",
@@ -27,7 +17,7 @@
     	"description": "Banco baixo com uma capa em pano, branco. Super cute.",
     	"picture": "https://www.ikea.com/gb/en/images/products/nils-stool-frame-black__0084222_pe210697_s4.jpg",
     	"sold": true,
-    	"send_to": "maria"
+    	"send_to": "maria" 
     },
     {
     	"title": "Dinner table",
@@ -96,7 +86,7 @@
     	"quantity": "1",
     	"description": "Realidade virtual para usar com uma PS4 — inclui a camera e dois comandos Move (Bonus: mais um suporte de rifle).",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/61Si9hUUrkL._SX425_.jpg",
-    	"sold": false,
+    	"sold": true,
     	"send_to": "luis"
     },
     {
@@ -205,7 +195,8 @@
     	"quantity": "1",
     	"description": "O meu 'sequeiteletrico', amo, adoro, vá lá não comprem. Vem com comando + capacete + carregador + chave de skate + uma aula 🛹",
     	"picture": "https://images-na.ssl-images-amazon.com/images/I/611H4CHUSbL._SL1150_.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "guilherme"
     },
     {
       "title": "Office Chair: Herman Miller Eames (white)",
@@ -252,7 +243,8 @@
     	"quantity": "1",
     	"description": "Computador do Rafa que ele ama mas é muito grande para levar. Intel Core i7 4 GHz, 16 GB 1867 MHz DDR3, e 256GB SSD 🖥.",
     	"picture": "https://c.dns-shop.ru/thumb/st1/fit/800/650/241c4d6a702f73d1ba40b3406f570199/ac2ceb848035ce922a6d08dfc10de38fa2d10c1de78538fe02e1fa54d8a6cb47.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "susana"
     },
     {
     	"title": "Microphone Desk Arm",
@@ -377,7 +369,7 @@
     	"quantity": "1",
     	"description": "iPad Pro com teclado, comprado este ano ainda. Podem comprar por prestações, nós somos amigos.",
     	"picture": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/DSC01330.jpg",
-    	"sold": false
+    	"sold": true
     },
     {
     	"title": "iPad Pro 9.7 256GB + Smart Keyboard (Space Grey)",
@@ -386,7 +378,8 @@
     	"quantity": "1",
     	"description": "iPad Pro de 9.7 polegadas com teclado. Podem comprar por prestações, nós somos amigos (a cor é preta, não a que está na foto).",
     	"picture": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/DSC01330.jpg",
-    	"sold": false
+    	"sold": true,
+    	"send_to": "ines"
     }
   ]
 }
