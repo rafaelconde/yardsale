@@ -1,26 +1,11 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# Yard sale microsite
+Built with Gatsby, me and Debs put this together when we were moving to Amsterdam.
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+[View live →](https://yardsale.netlify.com)
 
-## Install
+All the content is being pulled from `itemsToSellData.json`, so I could update its state easily from an iOS device.
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
+## Mega disclaimer
+This site sucks, put together quickly, and abandoned right after — it also has some not-valuable yet personal information, so I'm trusting the good people of the internet to not be creepy. 
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
-
-Then you can run it by:
-```sh
-cd gatsby-example-site
-gatsby develop
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Open-sourcing it just because some people might benefit from it. 
